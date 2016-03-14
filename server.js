@@ -5,6 +5,7 @@ var config = require('./config');
 var mongoose = require('mongoose');
 var Bookmark = require('./models/bookmark');
 
+var swig  = require('swig');
 var React = require('react');
 var ReactDOM = require('react-dom/server');
 var Router = require('react-router');

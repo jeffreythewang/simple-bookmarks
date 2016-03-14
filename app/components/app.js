@@ -1,5 +1,5 @@
 import React from 'react';
-import Sidebar from './Sidebar';
+import Sidebar from './sidebar';
 import AddBookmark from './add_bookmark';
 
 class App extends React.Component {
