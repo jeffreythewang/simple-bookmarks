@@ -1,6 +1,6 @@
 Simple Bookmarks
 ===
-Messing around with React
+A bit of fun with React
 
 How to set up locally:
 
@@ -11,3 +11,5 @@ mongod
 gulp
 npm run watch
 ```
+
+Run `mongod`, `gulp`, and `npm run watch` in separate terminal windows.
